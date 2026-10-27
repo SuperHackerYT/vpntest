@@ -1,6 +1,6 @@
 ss://YWVzLTI1Ni1nY206SnVENk1OZ3RYM25WcEN6RnpYWVZZakRUWjduc21hVHY%3D@191.223.221.53:8388#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2001
 ss://YWVzLTI1Ni1nY206QmVhVWY5YzBBRVdINDBQdQ%3D%3D@154.36.158.197:8388#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2002
 vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@139.162.27.96:2096?path=%2Ffree-server.techsonic.dev&security=tls&encryption=none&insecure=0&host=free-server.techsonic.dev&fp=chrome&type=ws&allowInsecure=0&sni=free-server.techsonic.dev#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2001
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYml2QldLOWtlTjNRS2IzMjhWWi9kRm52TmpLUWM2b2s5R0JpNHMvSjZrPQ@167.172.80.17:44337?type=tcp#🇸🇬 Singapore 02
 vless://75c5f51b-d548-4eab-a26e-aa10fc3dbc7b@147.93.173.45:10444?security=reality&encryption=none&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=video.yandex.ru&sid=8debcf36f1cc69ff#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2002
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYml2QldLOWtlTjNRS2IzMjhWWi9kRm52TmpLUWM2b2s5R0JpNHMvSjZrPQ@167.172.80.17:44337?type=tcp#🇸🇬 Singapore 03
 hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@pl2.shvpn.ru:4443?security=tls&insecure=0&sni=pl2.shvpn.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2001
